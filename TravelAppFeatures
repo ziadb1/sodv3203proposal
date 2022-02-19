@@ -1,0 +1,21 @@
+My propsal is an application for travel. An app that will help you fly through an easy to use UI, integrated flight data APIs and google maps compatibility. 
+This app will help you book a flight, see upcoming flights that might interest you, and send you notifications anytime it feels you would be interested in a trip. 
+IT helps find the best deals, coupons, flight times, least turbulent flights, and with the least amount of finger taps possible. We want it to be quick, simple and to the point. 
+We would like also like it to be as aesthetically pleasing and fitting the theme of flying. 
+
+The main screen will consist of a main menu with some buttons that can navigate throughout the app.(These buttons include: Book Flight, Check Local Flights, Deals, Profile/Settings)
+The second screen will consist of local flights in the area using either zip code or the location services feature built in our phones. It will be a list that you can look through, search, and book a flight from. 
+The third screen will consist of a search feature asking where you would like to fly to, whether its round-trip or one way, and the calendar days. 
+The data will through flight data apis giving information such as airborne flights, takeoff and landing times, future flights. 
+
+⦁	As a user, I want to have a personalized profile with my passport ready to go. 
+⦁	As a user, I want to be able to recieve notifications for any local flight deals. 
+⦁	As a user, I want to be able to see the flight map live on my phone. 
+⦁	As a user, I want to be able to set a group flight with my friends
+⦁	As a user, I want to be able to set my preferences for notifications.
+⦁	As a user, I want to be welcomed to the app on a positive note. 
+⦁	As a user, I want to recieve notifications for my upcoming flight and a countdown to it. 
+⦁	As a user, I want to be able to check the turbulence for my flight.
+⦁	As a user, I want to be have easy navigation built in to each menu
+
+https://wireframe.cc/vwgyB3
